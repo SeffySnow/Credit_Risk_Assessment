@@ -140,3 +140,4 @@ dtype: object
 ---
 
 *Made with ✨ data insights and 📊 machine learning.*
+*Dataset: https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment*
